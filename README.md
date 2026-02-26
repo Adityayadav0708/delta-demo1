@@ -1,2 +1,2 @@
 # delta-demo1
-git github
+git github learning phase 
